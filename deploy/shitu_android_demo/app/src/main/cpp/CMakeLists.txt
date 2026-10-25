@@ -103,3 +103,4 @@ target_link_libraries(
   ${log-lib}
   faiss
 )
+
